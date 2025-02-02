@@ -6,8 +6,11 @@
 
 An AI-powered platform for practicing coding interviews and competitive programming challenges, featuring automated problem generation, code evaluation, and personalized feedback.
 
-![Screenshot 2025-02-02 231910](https://github.com/user-attachments/assets/3892ec5a-1c5b-42b2-b299-b1ac544a50ec)
-  ![Screenshot 2025-02-02 231926](https://github.com/user-attachments/assets/81646630-cb75-4f34-bdea-a45fa73a73c6)
+![Screenshot 2025-02-02 231910](https://github.com/user-attachments/assets/27758fbe-97b8-4ea5-a136-ed16df5b0842)
+
+![Screenshot 2025-02-02 231926](https://github.com/user-attachments/assets/413fa806-ca4f-4322-a30b-7fb36b42d2dc)
+
+
 ## Key Features ✨
 
 - **Smart Problem Generation**
