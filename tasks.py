@@ -157,7 +157,7 @@ Evaluation Results:
 Optimization Explanation:
 {explanation_result}
 
-Create a concise feedback report following this structure:
+Create a comprehensive feedback report following this structure:
 
 Solution Evaluation Summary
 1. Overall Score: /10
