@@ -33,7 +33,7 @@ An AI-powered platform for practicing coding interviews and competitive programm
 ## Tech Stack ⚙️
 
 - **Core AI**
-  - 🧠 DeepSeek-R1 (via Groq)
+  - 🧠 gemma2-9b-it (via Groq)
   - 🤖 CrewAI Agent Orchestration
 
 - **Frontend**
@@ -48,7 +48,6 @@ An AI-powered platform for practicing coding interviews and competitive programm
 
 ### Prerequisites
 - Python 3.10+
-- [DeepSeek API Key](https://platform.deepseek.com/api-keys)
 - [Groq Cloud API Key](https://console.groq.com/keys)
 
 ### Installation
