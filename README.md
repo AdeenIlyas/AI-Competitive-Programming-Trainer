@@ -8,8 +8,11 @@ An AI-powered platform for practicing coding interviews and competitive programm
 
 ![Screenshot 2025-02-02 233251](https://github.com/user-attachments/assets/42c38d9e-4c6b-4a12-8974-daceafc1ec90)
 
-![Screenshot 2025-02-02 233309](https://github.com/user-attachments/assets/23f50d4e-1dc5-4695-a9fe-61f4550b6a90)
-<img width="500" alt="image" src="https://github.com/user-attachments/assets/a7a9e464-5ccb-4919-a0c0-63d909efd81c" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/23f50d4e-1dc5-4695-a9fe-61f4550b6a90" width="45%">
+  <img src="https://github.com/user-attachments/assets/a7a9e464-5ccb-4919-a0c0-63d909efd81c" width="45%">
+</p>
+
 
 
 ## Key Features ✨
